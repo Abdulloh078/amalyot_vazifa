@@ -1,1 +1,1 @@
-print("ozgardi")
+print("Xudoberdiyev Abdulloh")
